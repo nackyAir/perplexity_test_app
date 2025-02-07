@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "perplexity_test_app",
   "private": true,
   "scripts": {
     "build": "turbo build",
